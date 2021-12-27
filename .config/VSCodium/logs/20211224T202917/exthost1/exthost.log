@@ -1,0 +1,28 @@
+[2021-12-24 20:29:20.400] [exthost] [info] Extension host with pid 64343 started
+[2021-12-24 20:29:20.400] [exthost] [info] Skipping acquiring lock for /home/baianor/.config/VSCodium/User/workspaceStorage/f59291d4f97fc50bc935b5007c303a06.
+[2021-12-24 20:29:20.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 20:29:20.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 20:29:20.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-24 20:29:20.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-24 20:29:20.608] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.610] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.696] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.716] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.724] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.969] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2021-12-24 20:29:20.985] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+[2021-12-24 20:29:21.041] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: true, activationEvent: '*', root cause: streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-12-24 20:29:21.067] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2021-12-24 20:29:21.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-24 20:29:21.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-24 20:29:21.588] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: true, activationEvent: '*'
+[2021-12-24 20:29:21.629] [exthost] [info] Eager extensions activated
+[2021-12-24 20:29:21.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.680] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.689] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.699] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.927] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.948] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:29:21.956] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'

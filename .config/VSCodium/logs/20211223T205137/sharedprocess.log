@@ -1,0 +1,7 @@
+[2021-12-23 20:51:40.655] [sharedprocess] [info] Starting worker process with pid 362047 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-23 20:51:54.901] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-12-23 20:52:00.968] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/baianor/.config/VSCodium/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.14
+[2021-12-23 20:52:01.449] [sharedprocess] [info] Extracted extension to /home/baianor/.vscode-oss/extensions/.9446ce3a-47cf-4cf8-beca-6ac31eaafcb9: streetsidesoftware.code-spell-checker
+[2021-12-23 20:52:01.588] [sharedprocess] [info] Renamed to /home/baianor/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-2.0.14
+[2021-12-23 20:52:01.592] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-12-23 20:52:01.682] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker

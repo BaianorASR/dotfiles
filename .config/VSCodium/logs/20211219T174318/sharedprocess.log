@@ -1,0 +1,13 @@
+[2021-12-19 17:43:22.540] [sharedprocess] [info] Starting worker process with pid 753814 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-19 17:43:39.303] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2021-12-19 17:44:30.264] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /home/baianor/.config/VSCodium/CachedExtensionVSIXs/tabnine.tabnine-vscode-3.5.11
+[2021-12-19 17:44:30.322] [sharedprocess] [info] Extracted extension to /home/baianor/.vscode-oss/extensions/.363ed851-7081-427e-adac-0a6b8801a676: tabnine.tabnine-vscode
+[2021-12-19 17:44:30.329] [sharedprocess] [info] Renamed to /home/baianor/.vscode-oss/extensions/tabnine.tabnine-vscode-3.5.11
+[2021-12-19 17:44:30.332] [sharedprocess] [info] Extracting completed. tabnine.tabnine-vscode
+[2021-12-19 17:44:30.335] [sharedprocess] [info] Extension installed successfully: tabnine.tabnine-vscode
+[2021-12-19 17:46:11.418] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-12-19 17:46:19.097] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/baianor/.config/VSCodium/CachedExtensionVSIXs/vscodevim.vim-1.21.10
+[2021-12-19 17:46:19.263] [sharedprocess] [info] Extracted extension to /home/baianor/.vscode-oss/extensions/.3d2075f8-6381-4db7-88a0-251effcf296e: vscodevim.vim
+[2021-12-19 17:46:19.267] [sharedprocess] [info] Renamed to /home/baianor/.vscode-oss/extensions/vscodevim.vim-1.21.10
+[2021-12-19 17:46:19.269] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2021-12-19 17:46:19.271] [sharedprocess] [info] Extension installed successfully: vscodevim.vim

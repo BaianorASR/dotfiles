@@ -1,0 +1,17 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/baianor/Trybe/projetos/fundamentos/sd-019-c-project-mistery-letter
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/adson-reis-project-mistery-letter refs/remotes/adson-reis-project-mistery-letter
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :script.js
+> git ls-files --stage -- /home/baianor/Trybe/projetos/fundamentos/sd-019-c-project-mistery-letter/script.js
+> git cat-file -s 5a2de8909a032f04de3a57b08bc54021fd513da3
+> git show --textconv :script.js
+> git ls-files --stage -- /home/baianor/Trybe/projetos/fundamentos/sd-019-c-project-mistery-letter/script.js
+> git cat-file -s 5a2de8909a032f04de3a57b08bc54021fd513da3

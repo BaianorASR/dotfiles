@@ -1,0 +1,4 @@
+[2021-12-22 22:15:34.640] [renderer1] [error] [Extension Host] (node:671474) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-12-22 22:15:35.190] [renderer1] [error] Terminal disposed of during xterm.js creation: Error: Terminal disposed of during xterm.js creation
+    at _i._createXterm (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:2735:86653)

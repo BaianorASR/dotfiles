@@ -1,0 +1,222 @@
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.063 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.062 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.067 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.066 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.063 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.069 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+0
+1
+2
+3
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+91
+/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js:10
+      notas.aluno[i] = 'A'
+                     ^
+
+TypeError: Cannot set properties of undefined (setting '91')
+    at checkNote (/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js:10:22)
+    at Object.<anonymous> (/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.061 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+91
+oi
+7
+5
+9
+[ 91, 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.066 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+91
+oi
+7
+5
+9
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+o
+[ 91, 7, 5, 9, <87 empty items>, 'o' ]
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+0
+oi
+1
+2
+3
+[ 'o', 7, 5, 9 ]
+
+[Done] exited with code=0 in 0.067 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 'A', 'F', 'F', 'F' ]
+
+[Done] exited with code=0 in 0.069 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 'A', 'C', 'F', 'A' ]
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+undefined
+undefined
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] /home/baianor/.nvm/versions/node/v16.13.1/bin/node "/home/baianor/Workspace/Rocketseat/patricarParaAperfeicoar.js"
+[ 'A', 'C', 'F', 'A' ]
+[ 'F', 'F', 'F', 'F' ]
+
+[Done] exited with code=0 in 0.067 seconds
+

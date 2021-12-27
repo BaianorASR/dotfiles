@@ -1,0 +1,5 @@
+[2021-12-24 10:46:15.475] [sharedprocess] [info] Starting worker process with pid 42916 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-24 10:46:15.632] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/baianor/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-2.0.13
+[2021-12-24 10:47:55.725] [sharedprocess] [info] Uninstalling extension: equinusocio.vsc-material-theme-icons
+[2021-12-24 10:47:56.122] [sharedprocess] [info] Detected extension removed from another source equinusocio.vsc-material-theme-icons
+[2021-12-24 10:47:56.358] [sharedprocess] [info] Successfully uninstalled extension: equinusocio.vsc-material-theme-icons

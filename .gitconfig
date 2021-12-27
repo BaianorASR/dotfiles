@@ -1,0 +1,30 @@
+[user]
+    email = reis.adson2@outlook.com
+    name = BaianorASR
+    
+[commit]
+	template = ~/.gitmessage
+
+[core]
+	excludesfile = ~/.gitignore
+	editor = /home/baianor/.local/bin/nvim.appimage
+	
+[push]
+ 	default = simple
+ 	
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
+	grep = auto
+	ui = auto
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	
+[init]
+	defaultBranch = main
