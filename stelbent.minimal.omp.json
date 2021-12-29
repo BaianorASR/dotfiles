@@ -6,7 +6,6 @@
        {
       "type": "prompt",
       "alignment": "left",
-      "newline": true,
       "segments": [
  {
           "type": "os",
@@ -14,7 +13,10 @@
           "foreground": "#4C566A",
           "background": "#D8DEE9",
           "leading_diamond": "\uE0B6",
-          "trailing_diamond": ""
+          "trailing_diamond": "",
+          "properties": {
+          "arch": ""
+          }
         },
         {
           "type": "session",
@@ -33,8 +35,7 @@
           "foreground": "#D8DEE9",
           "background": "#3B4252",
           "properties": {
-            "mixed_threshold": 5,
-            "home_icon": "",
+            "home_icon": " home ",
             "folder_icon": "  ",
             "style": "folder",
             "prefix": "  ",
@@ -110,5 +111,5 @@
       ]
     }
   ],
-  "final_space": true
+  "final_space": false
 }
