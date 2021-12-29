@@ -1,0 +1,27 @@
+Realtime Extension Download Summary
+--------------------
+Sync : No Extensions needs to be installed.
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: gho_**********
+GitHub Gist: 6f80006b6fa03742274a75c32da245e6
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  vscode-colorize v0.11.1
+
+Extensions Added:
+  No extensions installed.
+--------------------
+Done.

@@ -1,0 +1,5 @@
+[2021-12-28 16:21:43.937] [main] [info] update#setState idle
+[2021-12-28 16:21:44.002] [main] [info] ExtensionHostStarterWorker created
+[2021-12-28 16:21:45.553] [main] [info] Starting extension host with pid 80332 (fork() took 10 ms).
+[2021-12-28 16:21:56.316] [main] [info] Waiting for extension host with pid 80332 to exit.
+[2021-12-28 16:21:56.930] [main] [info] Extension host with pid 80332 exited with code: 0, signal: null.

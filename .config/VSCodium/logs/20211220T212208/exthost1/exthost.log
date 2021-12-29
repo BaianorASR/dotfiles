@@ -1,4 +1,0 @@
-[2021-12-20 21:22:11.690] [exthost] [info] Extension host with pid 92195 started
-[2021-12-20 21:22:11.690] [exthost] [info] Skipping acquiring lock for /home/baianor/.config/VSCodium/User/workspaceStorage/525f2637ea729113ac372678a6fc60ec.
-[2021-12-20 21:22:11.747] [exthost] [info] extension host terminating: renderer closed the socket
-[2021-12-20 21:22:11.749] [exthost] [info] Extension host with pid 92195 exiting with code 0

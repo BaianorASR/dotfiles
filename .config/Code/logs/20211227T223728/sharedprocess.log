@@ -1,0 +1,18 @@
+[2021-12-27 22:37:35.291] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-12-27 22:37:35.437] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2021-12-27 22:37:37.599] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code /home/baianor/.config/Code/CachedExtensionVSIXs/arcticicestudio.nord-visual-studio-code-0.19.0
+[2021-12-27 22:37:37.649] [sharedprocess] [info] Extracted extension to /home/baianor/.vscode/extensions/.b80be0ea-10f7-44d7-8b40-637ca9e50f6d: arcticicestudio.nord-visual-studio-code
+[2021-12-27 22:37:37.653] [sharedprocess] [info] Renamed to /home/baianor/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+[2021-12-27 22:37:37.656] [sharedprocess] [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+[2021-12-27 22:37:37.660] [sharedprocess] [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
+[2021-12-27 22:37:46.107] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker-portuguese-brazilian /home/baianor/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.4
+[2021-12-27 22:37:46.190] [sharedprocess] [info] Extracted extension to /home/baianor/.vscode/extensions/.54b8a4e2-6219-45d8-bd60-5d780f705c01: streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-12-27 22:37:46.195] [sharedprocess] [info] Renamed to /home/baianor/.vscode/extensions/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.4
+[2021-12-27 22:37:46.198] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-12-27 22:37:46.202] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-12-27 22:37:48.533] [sharedprocess] [info] Starting worker process with pid 20380 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-27 22:38:29.838] [sharedprocess] [info] Uninstalling extension: kamikillerto.vscode-colorize
+[2021-12-27 22:38:30.117] [sharedprocess] [info] Detected extension removed from another source kamikillerto.vscode-colorize
+[2021-12-27 22:38:30.287] [sharedprocess] [info] Successfully uninstalled extension: kamikillerto.vscode-colorize
+[2021-12-27 22:42:23.169] [sharedprocess] [info] Worker process with pid 20380 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-27 22:42:24.976] [sharedprocess] [info] Starting worker process with pid 22581 (type: watcherServiceParcelSharedProcess, window: 1).

@@ -1,6 +1,0 @@
-[2021-12-19 20:15:23.144] [sharedprocess] [info] Deleted from disk tabnine.tabnine-vscode /home/baianor/.vscode-oss/extensions/tabnine.tabnine-vscode-3.5.6
-[2021-12-19 20:15:23.425] [sharedprocess] [info] Starting worker process with pid 819808 (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-19 20:17:27.552] [sharedprocess] [info] Worker process with pid 819808 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-19 20:17:30.098] [sharedprocess] [info] Starting worker process with pid 822644 (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-19 20:17:43.523] [sharedprocess] [info] Worker process with pid 822644 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-19 20:17:46.104] [sharedprocess] [info] Starting worker process with pid 823102 (type: watcherServiceParcelSharedProcess, window: 1).
