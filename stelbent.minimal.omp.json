@@ -3,41 +3,7 @@
   
   "osc99": false,
   "blocks": [
-    {
-      "type": "prompt",
-      "alignment": "right",
-      "segments": [
-        {
-          "type": "shell",
-          "style": "plain",
-          "foreground": "#434C5E",
-          "properties": {
-            "prefix": "",
-            "postfix": ""
-          }
-        },
-        {
-          "type": "root",
-          "style": "plain",
-          "foreground": "#BF616A",
-          "properties": {
-            "postfix": "",
-            "root_icon": " root"
-          }
-        },
-        {
-          "type": "time",
-          "style": "plain",
-          "foreground": "#3B4252",
-          "properties": {
-            "prefix": " <#3B4252,>|</> ",
-            "postfix": "",
-            "time_format": "15:04:05"
-          }
-        }
-      ]
-    },
-    {
+       {
       "type": "prompt",
       "alignment": "left",
       "newline": true,
@@ -48,7 +14,7 @@
           "foreground": "#4C566A",
           "background": "#D8DEE9",
           "leading_diamond": "\uE0B6",
-          "trailing_diamond": "\uE0B0"
+          "trailing_diamond": ""
         },
         {
           "type": "session",
@@ -57,7 +23,7 @@
           "foreground": "#A3BE8C",
           "background": "#4C566A",
           "properties": {
-            "template": "<b>{{ .UserName }}</b><#D8DEE9> \u279C</>"
+            "template": "<b>{{ .UserName }}</b> <#D8DEE9>in</>"
           }
         },
         {
@@ -67,6 +33,7 @@
           "foreground": "#D8DEE9",
           "background": "#3B4252",
           "properties": {
+            "mixed_threshold": 5,
             "home_icon": "",
             "folder_icon": "  ",
             "style": "folder",
@@ -129,16 +96,7 @@
       "alignment": "left",
       "newline": true,
       "segments": [
-        {
-          "type": "text",
-          "style": "plain",
-          "foreground": "#A3BE8C",
-          "properties": {
-            "prefix": "",
-            "postfix": "",
-            "text": "\u2514"
-          }
-        },
+     
         {
           "type": "text",
           "style": "plain",
