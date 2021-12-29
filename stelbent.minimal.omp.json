@@ -1,0 +1,156 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  
+  "osc99": false,
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "shell",
+          "style": "plain",
+          "foreground": "#434C5E",
+          "properties": {
+            "prefix": "",
+            "postfix": ""
+          }
+        },
+        {
+          "type": "root",
+          "style": "plain",
+          "foreground": "#BF616A",
+          "properties": {
+            "postfix": "",
+            "root_icon": " root"
+          }
+        },
+        {
+          "type": "time",
+          "style": "plain",
+          "foreground": "#3B4252",
+          "properties": {
+            "prefix": " <#3B4252,>|</> ",
+            "postfix": "",
+            "time_format": "15:04:05"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+ {
+          "type": "os",
+          "style": "diamond",
+          "foreground": "#4C566A",
+          "background": "#D8DEE9",
+          "leading_diamond": "\uE0B6",
+          "trailing_diamond": "\uE0B0"
+        },
+        {
+          "type": "session",
+          "style": "powerline",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#A3BE8C",
+          "background": "#4C566A",
+          "properties": {
+            "template": "<b>{{ .UserName }}</b><#D8DEE9> \u279C</>"
+          }
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#D8DEE9",
+          "background": "#3B4252",
+          "properties": {
+            "home_icon": "",
+            "folder_icon": "  ",
+            "style": "folder",
+            "prefix": "  ",
+            "enable_hyperlink": true
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "\ue0b0",
+          "foreground": "#2E3440",
+          "background": "#EBCB8B",
+          "background_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#D08770{{ end }}",
+            "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#BF616A{{ end }}",
+            "{{ if gt .Ahead 0 }}#81A1C1{{ end }}",
+            "{{ if gt .Behind 0 }}#8FBCBB{{ end }}"
+          ],
+          "properties": {
+            "fetch_status": true,
+            "fetch_stash_count": true,
+            "branch_ahead_icon": "\u2191",
+            "branch_behind_icon": "\u2193",
+            "branch_gone": "\u2262",
+            "branch_icon": " ",
+            "branch_identical_icon": "\u2261",
+            "branch_max_length":10,
+            "truncate_symbol": "..",
+            "cherry_pick_icon": "\u2713 ",
+            "commit_icon": "\u25b7 ",
+            "merge_icon": "\u25f4 ",
+            "no_commits_icon": "[no commits]",
+            "rebase_icon": "\u2c62 ",
+            "tag_icon": "\u25b6 ",
+            "template": "{{ .HEAD }}{{ .BranchStatus }}{{ if .Working.Changed }} {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} \u2502{{ end }}{{ if .Staging.Changed }} {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} {{ .StashCount }}{{ end }}"
+          }
+        },
+        {
+          "type": "terraform",
+          "style": "powerline",
+          "powerline_symbol": "\ue0b0",
+          "foreground": "#100e23",
+          "background": "#ffee58"
+        },
+        {
+          "type": "exit",
+          "style": "powerline",
+          "powerline_symbol": "\ue0b0",
+          "foreground": "#D8DEE9",
+          "background": "#BF616A",
+          "properties": {
+            "template": "error"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "#A3BE8C",
+          "properties": {
+            "prefix": "",
+            "postfix": "",
+            "text": "\u2514"
+          }
+        },
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "#D8DEE9",
+          "properties": {
+            "prefix": "",
+            "postfix": "",
+            "text": " \uf155"
+          }
+        }
+      ]
+    }
+  ],
+  "final_space": true
+}
