@@ -24,9 +24,12 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#A3BE8C",
-          "background": "#4C566A",
+          "background": "#3B4252",
+          "background_templates": [
+            "{{if .Root}}#BF616A{{else}}#4C566A {{end}}"
+          ],
           "properties": {
-            "template": "<b>{{ .UserName }}</b><#D8DEE9></>"
+            "template": "{{if .Root}}<#4C566A> </><#D8DEE9><b>{{.UserName}}</b></>{{else}}<b>{{.UserName}}</b>{{end}}"
           }
         },
         {
@@ -39,7 +42,7 @@
             "home_icon": "home ",
             "folder_icon": "  ",
             "style": "folder",
-            "prefix": "  ",
+            "prefix": " \uf755 ",
             "enable_hyperlink": true
           }
         },
@@ -71,7 +74,8 @@
             "no_commits_icon": "[no commits]",
             "rebase_icon": "\u2c62 ",
             "tag_icon": "\u25b6 ",
-            "template": "{{ .HEAD }}{{ .BranchStatus }}{{ if .Working.Changed }} {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} \u2502{{ end }}{{ if .Staging.Changed }} {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} {{ .StashCount }}{{ end }}"
+                        "template": "{{ .HEAD }}{{ .BranchStatus }}<b>{{ if .Working.Changed }} \uF044 {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }}|{{ end }}{{ if .Staging.Changed }}\uF046 {{ .Staging.String }}{{ end }}</b>"
+
           }
         },
         {
@@ -88,7 +92,7 @@
           "foreground": "#D8DEE9",
           "background": "#BF616A",
           "properties": {
-            "template": "error"
+            "template": "<b>error</b>"
           }
         }
       ]

@@ -1,20 +1,22 @@
 if status is-interactive
   # Commands to run in interactive sessions can go here
-    neofetch
+  #if not string match --quiet -e $TERM 'screen'
+  #neofetch
+  #end
   end
 set fish_greeting
 set -gx TERM xterm-256color
 
-oh-my-posh --init --shell fish --config /home/baianor/stelbent.minimal.omp.json | source
+oh-my-posh --init --shell fish --config /home/baianor/baianor-nord.json| source
 #  starship init fish | source
 ##################################
 #       Dircolors
 ##################################
-#eval ( dircolors --c-shell $HOME/.dircolors.gruvbox )
-set -Ux LS_COLORS ( vivid generate nord )
-#set -Ux LSCOLORS ~/.dircolors
-#test -r ~/.dircolors && eval (dircolors -c ~/.dircolors)
-#eval (dircolors ~/.dircolors.gruvbox) 
+#eval ( dircolors --c-shell ~/.dir_colors)
+set -Ux LS_COLORS ( vivid generate /home/baianor/.config/vivid/themes/nord.yml )
+#set -Ux LSCOLORS ~/.dircolors-nord
+#test -r ~/.dircolors-nord && eval (dircolors -c ~/.dircolors-nord)
+#eval (dircolors ~/.dir_colors) 
 
 ###################################
 #       Exa ls replacement
@@ -25,7 +27,7 @@ alias la "ll -a"
 alias lt "exa --icons --sort=type --group-directories-first --tree --level=4"
 alias lat "lt -a"
 alias sudol "sudo pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dbus-launch dolphin"
-
+alias fconf "vim $HOME/.config/fish/config.fish"
 ####################################
 #       NVIM
 ####################################
@@ -37,9 +39,5 @@ set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
 
-export SPICETIFY_INSTALL="/home/baianor/Documents/spicetify-cli"
-export PATH="$SPICETIFY_INSTALL:$PATH"
 set -x BAT_THEME Nord
-
-#neofetch
-
+neofetch
