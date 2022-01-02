@@ -1,14 +1,12 @@
 if status is-interactive
   # Commands to run in interactive sessions can go here
-  #if not string match --quiet -e $TERM 'screen'
-  #neofetch
-  #end
-  end
-set fish_greeting
+
+end
 set -gx TERM xterm-256color
 
 oh-my-posh --init --shell fish --config /home/baianor/baianor-nord.json| source
 #  starship init fish | source
+
 ##################################
 #       Dircolors
 ##################################
@@ -26,8 +24,13 @@ alias ll "ls --long"
 alias la "ll -a"
 alias lt "exa --icons --sort=type --group-directories-first --tree --level=4"
 alias lat "lt -a"
+
+alias :q "exit"
+# abri dolphin como root
 alias sudol "sudo pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dbus-launch dolphin"
-alias fconf "vim $HOME/.config/fish/config.fish"
+
+alias fish-conf "vim $HOME/.config/fish/config.fish"
+alias kitty-conf "vim $HOME/.config/kitty/kitty.conf"
 ####################################
 #       NVIM
 ####################################
@@ -39,5 +42,16 @@ set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
 
+####################################
+#       NVM
+####################################
+#source /usr/share/nvm/init-nvm.sh
+
+####################################
+#       BAT
+####################################
 set -x BAT_THEME Nord
-neofetch
+
+####################################
+#
+####################################
