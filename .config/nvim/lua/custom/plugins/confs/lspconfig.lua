@@ -2,8 +2,8 @@
 local M = {}
 
 M.setup_lsp = function(attach, capabilities)
-   
-   
+
+
  local lspconfig = require "lspconfig"
  lspconfig.tsserver.setup {
       on_attach = function(client, bufnr)
@@ -11,8 +11,8 @@ M.setup_lsp = function(attach, capabilities)
          vim.api.nvim_buf_set_keymap(bufnr, "n", "<space>fm", "<cmd>lua vim.lsp.buf.formatting()<CR>", {})
       end,
    }
-   
-   
+
+
    local lsp_installer = require "nvim-lsp-installer"
 
    lsp_installer.on_server_ready(function(server)
@@ -47,7 +47,7 @@ M.setup_lsp = function(attach, capabilities)
 
             -- Use nvim-code-action-menu for code actions for rust
             buf_set_keymap("n", "<leader>ca", "lua vim.lsp.buf.range_code_action()<CR>", { noremap = true, silent = true })
-            
+
             -- autoformat on save
             if client.resolved_capabilities.document_formatting then
                     vim.cmd("autocmd BufWritePre <buffer> lua vim.lsp.buf.formatting_sync()")

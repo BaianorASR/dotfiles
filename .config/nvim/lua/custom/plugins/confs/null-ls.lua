@@ -31,6 +31,13 @@ local sources = {
    b.formatting.shfmt,
    b.diagnostics.shellcheck.with { diagnostics_format = "#{m} [#{c}]" },
 }
+  
+  --eslint
+  b.formatting.eslint_d.with {
+    filetypes = { "javascript", "javascriptreact", "typescript", "typescriptreact", "vue" },
+    args = { "--fix-dry-run", "--format", "JSON", "--stdin", "--stdin-filename", "$FILENAME" }
+  }
+
 
 local M = {}
 
