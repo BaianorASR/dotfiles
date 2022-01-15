@@ -1,7 +1,0 @@
-[2022-01-13 11:56:47.970] [main] [info] update#setState idle
-[2022-01-13 11:56:48.036] [main] [info] ExtensionHostStarterWorker created
-[2022-01-13 11:56:49.882] [main] [info] Starting extension host with pid 88575 (fork() took 10 ms).
-[2022-01-13 11:57:17.975] [main] [info] update#setState checking for updates
-[2022-01-13 11:57:18.186] [main] [info] update#setState idle
-[2022-01-13 11:58:09.140] [main] [info] Waiting for extension host with pid 88575 to exit.
-[2022-01-13 11:58:09.873] [main] [info] Extension host with pid 88575 exited with code: 0, signal: null.
