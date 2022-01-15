@@ -1,0 +1,81 @@
+[2022-01-14 18:22:26.240] [exthost] [info] Extension host with pid 129189 started
+[2022-01-14 18:22:26.240] [exthost] [info] Skipping acquiring lock for /home/baianor/.config/Code/User/workspaceStorage/743a2b5d70046d4eff304446d8694093.
+[2022-01-14 18:22:26.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-14 18:22:26.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-14 18:22:26.381] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.383] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.389] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.399] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.645] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.661] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.717] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-01-14 18:22:26.738] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-01-14 18:22:27.043] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 18:22:27.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 18:22:27.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 18:22:27.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-14 18:22:27.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-14 18:22:27.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-14 18:22:27.351] [exthost] [info] Eager extensions activated
+[2022-01-14 18:22:27.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.450] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.461] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.472] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.526] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.793] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.831] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.843] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.883] [exthost] [info] ExtensionService#_doActivateExtension stylelint.vscode-stylelint, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:27.905] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:28.251] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 18:22:28.421] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5824
+[2022-01-14 18:22:41.388] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5824
+[2022-01-14 18:23:01.015] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5824
+[2022-01-14 18:23:26.655] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5824
+[2022-01-14 18:24:43.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-14 18:24:43.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-14 18:26:49.455] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 18:41:30.658] [exthost] [error] Error: You cannot rename this element.
+    at _.convert (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:41025)
+    at d.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:29157)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072)
+    at /home/baianor/.vscode/extensions/streetsidesoftware.code-spell-checker-2.1.4/packages/client/dist/extension.js:2:285280
+    at cSpell.editText (/home/baianor/.vscode/extensions/streetsidesoftware.code-spell-checker-2.1.4/packages/client/dist/extension.js:2:285007)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072) vscode.executeDocumentRenameProvider undefined
+[2022-01-14 18:54:28.956] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:00:29.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:01:12.353] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:01:50.789] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:04:45.256] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:05:41.407] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:09:01.848] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:13:49.950] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:17:01.927] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:18:33.678] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:19:27.905] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:19:28.949] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:19:30.562] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:21:44.839] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:21:50.987] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:21:53.083] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:21:57.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:22:11.046] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:22:26.045] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:22:31.840] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:23:35.991] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:31:32.004] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 19:33:58.222] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:33:02.468] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:33:12.437] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:37:13.856] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:38:18.094] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:39:47.923] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:40:11.851] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:41:23.267] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 20:41:26.439] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 21:09:21.325] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-14 21:23:50.716] [exthost] [warning] TextEditor is closed/disposed

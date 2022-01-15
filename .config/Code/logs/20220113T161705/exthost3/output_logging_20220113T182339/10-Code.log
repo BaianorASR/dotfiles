@@ -1,0 +1,711 @@
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  materia: 'História',
+  numeroEstudantes: 20,
+  professor: 'Carlos',
+  key: 'noite'
+}
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  materia: 'História',
+  numeroEstudantes: 20,
+  professor: 'Carlos',
+  turno: 'noite'
+}
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  materia: 'História',
+  numeroEstudantes: 20,
+  professor: 'Carlos',
+  turno: 'noite'
+}
+[
+  '0', '1', '2',
+  '3', '4', '5',
+  '6'
+]
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+[
+  '0', '1', '2',
+  '3', '4', '5',
+  '6'
+]
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27
+const listKeys = obj => console.log(Object.keys(obj));
+                                           ^
+
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at listKeys (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27:44)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27
+const listKeys = obj => console.log(Object.key(obj));
+                                           ^
+
+TypeError: Object.key is not a function
+    at listKeys (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27:44)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.062 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27
+const listKeys = obj => console.log(Object.keys(obj));
+                                           ^
+
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at listKeys (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27:44)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.067 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27
+const listKeys = obj => Object.keys(obj);
+                               ^
+
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at listKeys (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:27:32)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.078 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.075 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+[ 'materia', 'numeroEstudantes', 'professor', 'turno' ]
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+4
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+4
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+3
+
+[Done] exited with code=0 in 0.075 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+3
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:37
+const getValue = obj => Object.value(obj);
+                               ^
+
+TypeError: Object.value is not a function
+    at getValue (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:37:32)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:38:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.072 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+3
+[ 'Matemática', 20, 'Maria Clara', 'manhã' ]
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  materia: 'Matemática',
+  numeroEstudantes: 10,
+  professor: 'Maria Clara',
+  turno: 'noite'
+}
+
+[Done] exited with code=0 in 0.09 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1
+lesson1, lesson2, lesson3
+^
+
+ReferenceError: lesson1 is not defined
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  lesson1: {
+    materia: 'Matemática',
+    numeroEstudantes: 20,
+    professor: 'Maria Clara',
+    turno: 'manhã'
+  },
+  lesson2: { materia: 'História', numeroEstudantes: 20, professor: 'Carlos' },
+  lesson3: {
+    materia: 'Matemática',
+    numeroEstudantes: 10,
+    professor: 'Maria Clara',
+    turno: 'noite'
+  }
+}
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  lesson1: {
+    materia: 'Matemática',
+    numeroEstudantes: 20,
+    professor: 'Maria Clara',
+    turno: 'manhã'
+  },
+  lesson2: {
+    materia: 'História',
+    numeroEstudantes: 20,
+    professor: 'Carlos',
+    turno: 'noite'
+  },
+  lesson3: {
+    materia: 'Matemática',
+    numeroEstudantes: 10,
+    professor: 'Maria Clara',
+    turno: 'noite'
+  }
+}
+
+[Done] exited with code=0 in 0.069 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+{
+  lesson1: {
+    materia: 'Matemática',
+    numeroEstudantes: 20,
+    professor: 'Maria Clara',
+    turno: 'manhã'
+  },
+  lesson2: {
+    materia: 'História',
+    numeroEstudantes: 20,
+    professor: 'Carlos',
+    turno: 'noite'
+  },
+  lesson3: {
+    materia: 'Matemática',
+    numeroEstudantes: 10,
+    professor: 'Maria Clara',
+    turno: 'noite'
+  }
+}
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.063 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.06 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.062 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+
+[Done] exited with code=0 in 0.064 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:44
+  allLesson.forEach((key) => {
+            ^
+
+TypeError: allLesson.forEach is not a function
+    at countEstudantes (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:44:13)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:50:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.064 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+undefined
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+10
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+50
+
+[Done] exited with code=0 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+undefined
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+undefined
+
+[Done] exited with code=0 in 0.077 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:62
+  return saida
+  ^
+
+ReferenceError: saida is not defined
+    at verifyPair (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:62:3)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:65:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:61
+    saida = entry === [ key, index ] ? true : false
+          ^
+
+TypeError: Assignment to constant variable.
+    at /home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:61:11
+    at Array.forEach (<anonymous>)
+    at verifyPair (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:60:23)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:66:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.078 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.075 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js"
+
+[Done] exited with code=0 in 0.066 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.069 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+false
+false
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 20 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'manhã' ]
+false
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:59
+  const isIgual
+        ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.092 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:64
+  return saida;
+  ^
+
+ReferenceError: saida is not defined
+    at verifyPair (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:64:3)
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js:67:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.074 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+true
+[ 'materia', 'Matemática' ]
+[ 'numeroEstudantes', 10 ]
+[ 'professor', 'Maria Clara' ]
+[ 'turno', 'noite' ]
+false
+
+[Done] exited with code=0 in 0.079 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+true
+false
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/script.js"
+Numero total de alunos: 50
+Matemática
+undefined
+undefined
+
+[Done] exited with code=0 in 0.07 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1
+entry[0] === key && entry[1] === index ? true : false
+^
+
+ReferenceError: entry is not defined
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.065 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js"
+/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1
+entry[0] === key && entry[1] === index ? true : false
+^
+
+ReferenceError: entry is not defined
+    at Object.<anonymous> (/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+
+[Done] exited with code=1 in 0.068 seconds
+
+[Running] node "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3/tempCodeRunnerFile.js"
+
+[Done] exited with code=0 in 0.061 seconds
+

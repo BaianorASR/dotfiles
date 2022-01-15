@@ -1,13 +1,10 @@
 {  
     //##########FONT##############
-    "editor.fontFamily": "Liga SFMono Nerd Font",
-    // "editor.fontFamily": "JetbrainsMono Nerd Font",
-    "editor.fontSize": 17,
-    "editor.fontWeight": "500",
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontSize": 15,
     "editor.fontLigatures": true,
-    // "editor.lineHeight": 1.3,
     "terminal.integrated.fontFamily": "JetbrainsMono Nerd Font",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 15,
     // #############################
     "files.autoSave": "afterDelay",
     "editor.wordWrap": "on",
@@ -15,9 +12,6 @@
     
     // ############CODE RUNER##########
     "code-runner.clearPreviousOutput": true,
-    "code-runner.executorMap": {
-      "javascript": "/home/baianor/.nvm/versions/node/v16.13.1/bin/node"
-    },
     // ############################
     "cSpell.language": "en,pt,pt_BR",
     "workbench.productIconTheme": "icons-carbon",
@@ -51,20 +45,41 @@
     },
     "editor.bracketPairColorization.enabled": true,
     "security.workspace.trust.untrustedFiles": "open",
-    "[html]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+    // ##############################################
+    //                  Pretier
+    // ##############################################
+      "[css]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[html]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[json]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "eslint.lintTask.enable": true,
+    "prettier.printWidth": 800,
+    // #######################################
+    
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.saturation": 0.5,
     "material-icon-theme.activeIconPack": "react_redux",
+
     "sync.gist": "6f80006b6fa03742274a75c32da245e6",
-    "sync.forceUpload": true,
-    "gruvboxMaterial.darkWorkbench": "flat",
     "markdown.preview.doubleClickToSwitchToEditor": false,
     "terminal.external.linuxExec": "kitty",
-    "window.zoomLevel": -1,
+    "workbench.tree.indent": 2,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.renderWhitespace": "all",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
 
 }

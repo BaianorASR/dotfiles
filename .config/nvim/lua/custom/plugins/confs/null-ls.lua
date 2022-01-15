@@ -6,10 +6,7 @@ local sources = {
   b.formatting.prettierd.with { 
   filetypes = 
     { 
-      "javascript",
-      "javascriptreact",
-      "typescript",
-      "typescriptreact",
+
       "vue",
       "css",
       "scss",

@@ -1,0 +1,66 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/adson-reis-project-trybewarts refs/remotes/adson-reis-project-trybewarts
+> git rev-parse --git-dir
+Open repository: /home/baianor/Trybe/exercicios-TRYBE
+> git status -z -u
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+> git ls-files --stage -- /home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+> git cat-file -s 655616f6418aa97204ac1e1206c2b249ffd4cd6f
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :index.html
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/index.html
+> git cat-file -s b611aa09b2235d3e73a5dd5971d0c77da818472b
+> git show --textconv :script.js
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+> git cat-file -s eacde8304fc27e3f5f327b789b930c644802c157
+> git show --textconv :fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+> git ls-files --stage -- /home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+> git cat-file -s 655616f6418aa97204ac1e1206c2b249ffd4cd6f
+> git show --textconv :script.js
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+> git cat-file -s eacde8304fc27e3f5f327b789b930c644802c157
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+> git show --textconv :index.html
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/index.html
+> git cat-file -s b611aa09b2235d3e73a5dd5971d0c77da818472b
+> git show --textconv :script.js
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+> git cat-file -s eacde8304fc27e3f5f327b789b930c644802c157
+> git show --textconv :index.html
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/index.html
+> git cat-file -s b611aa09b2235d3e73a5dd5971d0c77da818472b
+> git show --textconv :style.css
+> git ls-files --stage -- /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+> git cat-file -s 17377ce20cf4cab6360ec1496f0b32c579c98bc0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/adson-reis-project-trybewarts refs/remotes/adson-reis-project-trybewarts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/adson-reis-project-trybewarts refs/remotes/adson-reis-project-trybewarts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/adson-reis-project-trybewarts refs/remotes/adson-reis-project-trybewarts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

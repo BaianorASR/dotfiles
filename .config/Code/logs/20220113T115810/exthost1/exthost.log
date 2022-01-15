@@ -1,0 +1,178 @@
+[2022-01-13 11:58:13.889] [exthost] [info] Extension host with pid 107790 started
+[2022-01-13 11:58:13.890] [exthost] [info] Skipping acquiring lock for /home/baianor/.config/Code/User/workspaceStorage/a145d4538cda9c1c881b3b5152ff7c9a.
+[2022-01-13 11:58:14.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-13 11:58:14.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-01-13 11:58:14.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-13 11:58:14.318] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.320] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.327] [exthost] [info] ExtensionService#_doActivateExtension redwan-hossain.auto-rename-tag-clone, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.336] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.614] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.629] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.688] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.708] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-01-13 11:58:14.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-01-13 11:58:15.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-13 11:58:15.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-13 11:58:15.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-13 11:58:15.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-13 11:58:15.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-13 11:58:15.806] [exthost] [info] Eager extensions activated
+[2022-01-13 11:58:15.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:15.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:15.889] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:15.902] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:15.916] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:15.984] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.278] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.313] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.330] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.373] [exthost] [info] ExtensionService#_doActivateExtension stylelint.vscode-stylelint, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.401] [exthost] [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:58:16.823] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 11:59:31.709] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 11:59:33.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-13 12:32:04.622] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:32:27.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-13 12:32:27.871] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:32:30.761] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:32:30.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-13 12:32:40.626] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:32:49.260] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:32:50.459] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 12:33:05.725] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:00:05.669] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:02:21.055] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:03:17.450] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:04:11.272] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:28:44.590] [exthost] [warning] TextEditor is closed/disposed
+[2022-01-13 13:30:56.326] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-01-13 13:30:56.326] [exthost] [error] Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Could not find symbol in specified module for code actions
+Error: Debug Failure. Could not find symbol in specified module for code actions
+    at getSymbolExportInfoForSymbol (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148446:29)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148419:20)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129176:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129120:30)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160080:35)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171575:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:619:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171573:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170398:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at m.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-13 13:33:33.897] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-01-13 13:33:33.897] [exthost] [error] Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Could not find symbol in specified module for code actions
+Error: Debug Failure. Could not find symbol in specified module for code actions
+    at getSymbolExportInfoForSymbol (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148446:29)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148419:20)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129176:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129120:30)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160080:35)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171575:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:619:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171573:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170398:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at m.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-13 13:34:58.933] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-01-13 13:34:58.933] [exthost] [error] Error: <semantic> TypeScript Server Error (4.5.4)
+Debug Failure. Could not find symbol in specified module for code actions
+Error: Debug Failure. Could not find symbol in specified module for code actions
+    at getSymbolExportInfoForSymbol (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148446:29)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148419:20)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129176:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:129120:30)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160080:35)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171575:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:619:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:171573:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170398:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172184:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172193:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172219:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174824:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:494353)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:488189)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:487046)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:486531
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at m.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497282)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496929)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-13 13:41:07.730] [exthost] [error] Error: You cannot rename this element.
+    at _.convert (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:41025)
+    at d.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:29157)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072)
+    at /home/baianor/.vscode/extensions/streetsidesoftware.code-spell-checker-2.1.4/packages/client/dist/extension.js:2:285280
+    at cSpell.editText (/home/baianor/.vscode/extensions/streetsidesoftware.code-spell-checker-2.1.4/packages/client/dist/extension.js:2:285007)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072)
+    at r._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:31072) vscode.executeDocumentRenameProvider undefined
+[2022-01-13 14:57:42.469] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-13 14:57:43.188] [exthost] [info] Extension host with pid 107790 exiting with code 0

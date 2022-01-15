@@ -1,0 +1,42 @@
+[2022-01-14 14:50:32.935] [renderer1] [error] [Extension Host] (node:89936) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-14 15:07:13.894] [renderer1] [warning] {}
+[2022-01-14 15:07:23.599] [renderer1] [error] [Extension Host] TypeError: Cannot read property 'version' of null
+    at /home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:68024
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4273)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at M (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:5658)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4050)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at t (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:413)
+    at s (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:624)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-01-14 15:07:23.600] [renderer1] [error] [Extension Host] TypeError: Cannot read property 'version' of null
+    at /home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:68024
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4273)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at M (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:5658)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4050)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at t (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:413)
+    at s (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:624)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-01-14 15:07:23.601] [renderer1] [error] [Extension Host] TypeError: Cannot read property 'version' of null
+    at /home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:68024
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4273)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at l (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at M (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:5658)
+    at Generator._invoke (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4050)
+    at Generator.next (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at t (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:413)
+    at s (/home/baianor/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:624)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

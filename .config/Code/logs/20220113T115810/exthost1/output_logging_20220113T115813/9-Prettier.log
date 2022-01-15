@@ -1,0 +1,167 @@
+["INFO" - 11:58:16 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:58:16 AM] Extension Version: 9.1.0.
+["INFO" - 1:02:17 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+["INFO" - 1:02:17 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:02:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:02:17 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:02:17 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js",
+  "parser": "babel",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:02:18 PM] Formatting completed in 0.157ms.
+["INFO" - 1:02:57 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+["INFO" - 1:02:58 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:02:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:02:58 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:02:58 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js",
+  "parser": "babel",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:02:58 PM] Formatting completed in 0.143ms.
+["INFO" - 1:02:59 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+["INFO" - 1:02:59 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:02:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:02:59 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:02:59 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js",
+  "parser": "babel",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:02:59 PM] Formatting completed in 0.102ms.
+["INFO" - 1:03:13 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js
+["INFO" - 1:03:13 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:03:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:03:13 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:03:13 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/script.js",
+  "parser": "babel",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:03:13 PM] Formatting completed in 0.073ms.
+["INFO" - 1:04:13 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+["INFO" - 1:04:13 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:04:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:04:13 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:04:13 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css",
+  "parser": "css",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:04:14 PM] Formatting completed in 0.111ms.
+["INFO" - 1:04:14 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+["INFO" - 1:04:14 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:04:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:04:14 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:04:14 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css",
+  "parser": "css",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:04:14 PM] Formatting completed in 0.032ms.
+["INFO" - 1:04:14 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+["INFO" - 1:04:14 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:04:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:04:14 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:04:14 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css",
+  "parser": "css",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:04:14 PM] Formatting completed in 0.036ms.
+["INFO" - 1:04:15 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+["INFO" - 1:04:15 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:04:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:04:15 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:04:15 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css",
+  "parser": "css",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:04:15 PM] Formatting completed in 0.037ms.
+["INFO" - 1:04:15 PM] Formatting file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css
+["INFO" - 1:04:15 PM] Using ignore file (if present) at /home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/.prettierignore
+["INFO" - 1:04:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "css"
+}
+["INFO" - 1:04:15 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:04:15 PM] Prettier Options:
+{
+  "filepath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts/style.css",
+  "parser": "css",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf"
+}
+["INFO" - 1:04:15 PM] Formatting completed in 0.045ms.
+["INFO" - 1:41:31 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:41:31 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 1:42:09 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:42:09 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 1:42:10 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:42:10 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 1:42:11 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:42:11 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 1:42:11 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:42:11 PM] Require config set to true and no config present. Skipping file.
+["INFO" - 1:42:11 PM] Formatting file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js
+["INFO" - 1:42:11 PM] Require config set to true and no config present. Skipping file.

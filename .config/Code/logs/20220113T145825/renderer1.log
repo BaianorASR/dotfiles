@@ -1,0 +1,25 @@
+[2022-01-13 14:58:27.533] [renderer1] [error] [Extension Host] (node:155092) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-13 15:05:59.748] [renderer1] [error] Error: Unable to read file '/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js' (Error: Unable to resolve nonexistent file '/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js')
+    at i.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:115082)
+    at i.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:118873)
+    at i.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:114776)
+    at async n.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:35224)
+    at async n.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33525)
+    at async n.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2323:33151)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2525:17056
+    at async v.doOpenCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1280:28972)
+    at async m.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:71065)
+    at async s.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:72529)
+[2022-01-13 15:30:24.907] [renderer1] [error] Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js
+fatal: There is no path fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js in the commit
+: Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js
+fatal: There is no path fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js in the commit
+
+    at /home/baianor/.vscode/extensions/eamodio.gitlens-11.7.0/dist/webpack:/gitlens/src/git/shell.ts:190:6
+    at ChildProcess.exithandler (child_process.js:324:5)
+    at ChildProcess.emit (events.js:315:20)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Socket.<anonymous> (internal/child_process.js:439:11)
+    at Socket.emit (events.js:315:20)
+    at Pipe.<anonymous> (net.js:673:12)

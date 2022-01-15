@@ -3,7 +3,85 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/jest-project"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part2"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.1-let-cont-arow_functions-templat_literals/exercise"
+            },
+            {
                 "folderUri": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio3"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio1"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/para-fixar"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/exercise-tech-gallery"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/exercicio"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/para-fixar"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/para-fixar"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.2-bibliotecas-e-frameworks/exercicio"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.1-html-css-forms/exercicio"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.1-html-css-forms/para-fixar/part2"
+            },
+            {
+                "folderUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.1-html-css-forms/para-fixar"
+            },
+            {
+                "fileUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js"
+            },
+            {
+                "fileUri": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter/%2C"
+            },
+            {
+                "fileUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2/%2C"
+            },
+            {
+                "fileUri": "file:///home/baianor/.local/share/plasma/plasmoids/panon/contents/scripts/soundcard/pulseaudio.py"
+            },
+            {
+                "fileUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/para-fixar/index2.html"
+            },
+            {
+                "fileUri": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/para-fixar/index.html"
             },
             {
                 "fileUri": "file:///home/baianor/.local/share/applications/mimeapps.list"
@@ -44,8 +122,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -54,7 +131,84 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter",
+                                        "fsPath": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise",
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/jest-project",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/jest-project",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/jest-project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts",
+                                        "path": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/projetos-TRYBE/sd-019-c-project-trybewarts"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part2",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.1-let-cont-arow_functions-templat_literals/exercise",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.1-let-cont-arow_functions-templat_literals/exercise",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.1-let-cont-arow_functions-templat_literals/exercise"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter",
                                         "path": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter",
                                         "scheme": "file"
@@ -63,12 +217,101 @@
                                     "label": "~/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio3",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter/%2C",
+                                        "path": "/home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter/,",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter/,"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2/%2C",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2/,",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.5-css-responsivo-mobile-first/exercicio2/,"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/.local/share/plasma/plasmoids/panon/contents/scripts/soundcard/pulseaudio.py",
+                                        "path": "/home/baianor/.local/share/plasma/plasmoids/panon/contents/scripts/soundcard/pulseaudio.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/plasma/plasmoids/panon/contents/scripts/soundcard/pulseaudio.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/para-fixar/index2.html",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/para-fixar/index2.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2/para-fixar/index2.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/para-fixar/index.html",
+                                        "path": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/para-fixar/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.3-css-flexbox-part1/para-fixar/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/baianor/.local/share/applications/mimeapps.list",
                                         "path": "/home/baianor/.local/share/applications/mimeapps.list",
                                         "scheme": "file"
                                     },
@@ -245,6 +488,22 @@
                         "label": "&&Copy"
                     },
                     {
+                        "id": "submenuitem.24",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
+                    },
+                    {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
                     },
@@ -418,7 +677,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -615,8 +875,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1285,8 +1544,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1516,17 +1776,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/baianor/Trybe/projetos-TRYBE/sd-019-c-project-mistery-letter",
-            "backupPath": "/home/baianor/.config/Code/Backups/1db7e19178353e42f68f7e5e2c049290",
+            "folder": "file:///home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.3-jest/exercise",
+            "backupPath": "/home/baianor/.config/Code/Backups/c0e4f27da7c20691bcf795eef371dcbf",
             "uiState": {
                 "mode": 1,
-                "x": 82,
-                "y": 115,
-                "width": 1016,
-                "height": 765
+                "x": 4,
+                "y": 60,
+                "width": 855,
+                "height": 836
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/baianor/Trybe/projetos-TRYBE"
+    "pickerWorkingDir": "/home/baianor/Trybe/exercicios-TRYBE/fundamentos/bloco-06-html-css-flex-flexbox-responsivo/6.4-css-flexbox-part2"
 }

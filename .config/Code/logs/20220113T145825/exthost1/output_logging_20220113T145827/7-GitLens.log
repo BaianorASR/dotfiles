@@ -1,0 +1,5 @@
+[2022-01-13 18:30:23:445] [/home/baianor/Trybe/exercicios-TRYBE] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js • There is no path fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js in the commit • 14 ms 
+[2022-01-13 18:30:23:861] /home/baianor/.vscode/extensions/eamodio.gitlens-11.7.0/dist/webpack:/gitlens/src/git/shell.ts:190:6
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js
+fatal: There is no path fundamentos/bloco-07-introcucao-es6-e-testes-unitarios/7.2-fluxo-de-execaap-e-objetos/part1/scrip.js in the commit
+

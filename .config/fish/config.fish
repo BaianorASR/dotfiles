@@ -45,7 +45,7 @@ set -gx PATH ~/.local/bin $PATH
 ####################################
 #       NVM
 ####################################
-#source /usr/share/nvm/init-nvm.sh
+#set -gx PATH node_modules/.bin $PATH
 
 ####################################
 #       BAT
