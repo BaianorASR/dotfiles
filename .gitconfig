@@ -7,7 +7,7 @@
 
 [core]
 	excludesfile = ~/.gitignore
-	editor = /home/baianor/.local/bin/nvim.appimage
+	editor = nvim
 	
 [push]
  	default = simple

@@ -1,26 +1,47 @@
-local hooks = require "core.hooks"
+return {
 
-hooks.add("install_plugins", function(use)
-   use {
+   {
       "windwp/nvim-ts-autotag",
+      ft = { "html", "javascriptreact" },
       after = "nvim-treesitter",
-      -- event = "InsertEnter",
       config = function()
          require("nvim-ts-autotag").setup()
       end,
-   }
+   },
 
-   use {
+   {
       "jose-elias-alvarez/null-ls.nvim",
       after = "nvim-lspconfig",
       config = function()
-         require("custom.plugins.confs.null-ls").setup()
+         require("custom.plugins.null-ls").setup()
       end,
-   }
+   },
 
-   use "nathom/filetype.nvim"
-   
-   use {
-        "williamboman/nvim-lsp-installer",
-     }
-end)
+   {
+      "nvim-telescope/telescope-media-files.nvim",
+      after = "telescope.nvim",
+      config = function()
+         require("telescope").setup {
+            extensions = {
+               media_files = {
+                  filetypes = { "png", "webp", "jpg", "jpeg" },
+               },
+               -- fd is needed
+            },
+         }
+         require("telescope").load_extension "media_files"
+      end,
+   },
+
+   {
+      "Pocco81/TrueZen.nvim",
+      cmd = {
+         "TZAtaraxis",
+         "TZMinimalist",
+         "TZFocus",
+      },
+      config = function()
+         require "custom.plugins.truezen"
+      end,
+   },
+}

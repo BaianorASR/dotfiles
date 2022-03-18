@@ -1,0 +1,134 @@
+# 🚀 starship!!
+
+format = """
+($username\
+$hostname)\
+$shlvl\
+$directory\
+$vcsh\
+$git_branch\
+$git_commit\
+$git_state\
+$git_metrics\
+$git_status\
+$hg_branch\
+$memory_usage\
+$env_var\
+$custom\
+$cmd_duration\
+$line_break\
+$jobs\
+$battery\
+$time\
+$status\
+$shell\
+$character"""
+
+
+[username]
+style_root = "red"
+format = "[$user]($style) on "
+# style_user = "bold #bd93f9"
+
+[hostname]
+# style = "bold #ff5555"
+
+[cmd_duration]
+format = "[$duration]($style) "
+# style = "bold #f1fa8c"
+
+[character]
+format = "$symbol "
+success_symbol = "[](bold green)"
+error_symbol = "[](bold red)"
+vicmd_symbol = "[](bold fg:white,bg:#614b51)"
+
+[jobs]
+symbol = ""
+format = "$symbol"
+
+[git_branch]
+symbol = " "
+format = "[$symbol$branch]($style) "
+# style = "bold #ff79c6"
+truncation_length = 12
+truncation_symbol = ".."
+
+[git_status]
+# style = "bold #ff5555"
+
+
+[directory]
+truncation_length = 1
+truncate_to_repo = true
+# style = "bold #50fa7b"
+
+[aws]
+symbol = " "
+disabled = true
+
+[battery]
+full_symbol = ""
+charging_symbol = ""
+discharging_symbol = ""
+disabled = true
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[golang]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[package]
+symbol = " "
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[swift]
+symbol = "ﯣ "

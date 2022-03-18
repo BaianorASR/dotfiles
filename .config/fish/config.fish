@@ -1,18 +1,18 @@
 if status is-interactive
   # Commands to run in interactive sessions can go here
-
 end
 set -gx TERM xterm-256color
 
-oh-my-posh --init --shell fish --config /home/baianor/baianor-nord.json| source
-#  starship init fish | source
+#oh-my-posh --init --shell fish --config /home/baianor/baianor-dracula.json| source
+  starship init fish | source
 
 ##################################
 #       Dircolors
 ##################################
 #eval ( dircolors --c-shell ~/.dir_colors)
-set -Ux LS_COLORS ( vivid generate /home/baianor/.config/vivid/themes/nord.yml )
-#set -Ux LSCOLORS ~/.dircolors-nord
+#set -Ux LS_COLORS ( vivid generate lava )
+set LS_COLORS (vivid generate nord)
+#set -Ux LSCOLORS ~/.config/vivid/themes/lava.yml
 #test -r ~/.dircolors-nord && eval (dircolors -c ~/.dircolors-nord)
 #eval (dircolors ~/.dir_colors) 
 
@@ -50,8 +50,10 @@ set -gx PATH ~/.local/bin $PATH
 ####################################
 #       BAT
 ####################################
-set -x BAT_THEME Nord
+set -x BAT_THEME Dracula
 
 ####################################
 #
+####################################
+set -Ux FZF_DEFAULT_OPTS "--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4"
 ####################################

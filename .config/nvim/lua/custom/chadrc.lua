@@ -1,28 +1,25 @@
 local M = {}
 
-M.options = {
-   nvChad = {
-      update_branch = "main",
-   },
-}
+local plugin_conf = require "custom.plugins.configs"
+local userPlugins = require "custom.plugins"
 
 M.plugins = {
    status = {
       colorizer = true,
-      telescope_media = true, -- media previews within telescope finders
    },
+
    options = {
-      nvimtree = {
-         enable_git = 0,
-      },
       lspconfig = {
-         setup_lspconf = "custom.plugins.confs.lspconfig",
+         setup_lspconf = "custom.plugins.lspconfig",
       },
    },
 
    default_plugin_config_replace = {
-      nvim_treesitter = "custom.plugins.confs.treesitter",
+      nvim_treesitter = plugin_conf.treesitter,
+      nvim_tree = plugin_conf.nvimtree,
    },
+
+   install = userPlugins,
 }
 
 M.ui = {
