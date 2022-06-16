@@ -41,7 +41,11 @@ set -Ua fish_user_paths $HOME/.cargo/bin
 set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
+set -gx PATH ~/go/bin $PATH
+set -gx PATH $GOPATH/bin $PATH
 
+set PATH $PATH (go env GOPATH)/bin
+set -x GOPATH (go env GOPATH)
 ####################################
 #       NVM
 ####################################
@@ -50,7 +54,7 @@ set -gx PATH ~/.local/bin $PATH
 ####################################
 #       BAT
 ####################################
-set -x BAT_THEME Dracula
+set -x BAT_THEME Nord
 
 ####################################
 #
