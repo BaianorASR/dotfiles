@@ -5,7 +5,7 @@ set -gx TERM xterm-256color
 
 oh-my-posh --init --shell fish --config /home/baianim/baianor-nord.json| source
 #  starship init fish | source
-source /opt/asdf-vm/asdf.fish
+# source /opt/asdf-vm/asdf.fish
 ##################################
 #       Dircolors
 ##################################
