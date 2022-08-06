@@ -3,18 +3,13 @@ if status is-interactive
 end
 set -gx TERM xterm-256color
 
-#oh-my-posh --init --shell fish --config /home/baianor/baianor-dracula.json| source
-  starship init fish | source
-
+oh-my-posh --init --shell fish --config /home/baianim/baianor-nord.json| source
+#  starship init fish | source
+source /opt/asdf-vm/asdf.fish
 ##################################
 #       Dircolors
 ##################################
-#eval ( dircolors --c-shell ~/.dir_colors)
-#set -Ux LS_COLORS ( vivid generate lava )
 set LS_COLORS (vivid generate nord)
-#set -Ux LSCOLORS ~/.config/vivid/themes/lava.yml
-#test -r ~/.dircolors-nord && eval (dircolors -c ~/.dircolors-nord)
-#eval (dircolors ~/.dir_colors) 
 
 ###################################
 #       Exa ls replacement
